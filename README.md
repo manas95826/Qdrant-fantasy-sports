@@ -73,10 +73,3 @@ This repository contains a FastAPI application for providing fantasy sports sugg
 ## Author
 
 - **Manas Chopra** - [manas95826](https://github.com/manas95826)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can create a `README.md` file in your repository and paste the above content into it. Adjust any details as necessary to better fit your project or personal preferences!
